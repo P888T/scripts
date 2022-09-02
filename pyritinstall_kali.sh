@@ -5,6 +5,7 @@
 #Update and troubleshooting is implemented.
 #Python2.x requiered.
 #AESNI $ AESNIX compilation in Pyrit/cpyrit/_cpyrit_cpu.c troubleshooted.
+#5ffbd888f1e9fd43364c98c704cf568c222ca3ed35bae6837d983b8adc711cb8
 #02.09.2022
 #P$$$T
 #
