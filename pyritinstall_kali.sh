@@ -3,6 +3,8 @@
 #
 #This script installing Pyrit on Kali Linux 2022.2 and newer.
 #Update and troubleshooting is implemented.
+#Python2.x requiered.
+#AESNI $ AESNIX compilation in Pyrit/cpyrit/_cpyrit_cpu.c troubleshooted.
 #02.09.2022
 #P$$$T
 #
